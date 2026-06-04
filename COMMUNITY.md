@@ -10,4 +10,5 @@ Roles to include, but not limited to: Project Owner, Technical Lead, Developers/
 
 | Role   | Name    | Affiliation    |
 | :----- | :------ | :------------- |
-| {role} | {names} | {affiliations} |
+| Maintainer | Natalia Luzuriaga | cms.hhs.gov |
+| Contributor | Natalia Luzuriaga | — |
